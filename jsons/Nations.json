@@ -23,7 +23,8 @@
 		"cities": ["Warsaw","Cracow","Lodz","Wroclaw","Poznan„","Gdansk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Bialystok","Gdynia","Swidnica","Czestochowa","Radom","Torun„","Kielce","Gliwice","Lowicz",
 			"Bytom","Olsztyn","Rzeszow","Ruda Slaska","Bielsko-Biala","Rybnik","Plock","Elblag","Gorzow Wielkopolski","Opole",
-			"Leczyca","Walbrzych","Zielona Gora","Wloclawek"]
+			"Leczyca","Walbrzych","Zielona Gora","Wloclawek"],
+		"spyNames": ["Wincenty", "Roman", "Benita", "Jan", "Kazimierz", "Josef", "Krystyna Skarbek", "Tarnowski", "Marian", "Alenka"]
 	},
 	{
 		"name": "Assyria",
@@ -47,7 +48,8 @@
 		"uniques": ["[+25]% [Science] [in annexed cities]"]
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
-			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
+			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"],
+		"spyNames": ["Adapa", "Kubaba", "Nabu", "Nergal", "Ninlil", "Ninurta", "Nisroch", "Shamash", "Pazuzu", "Qingu"]
 	},
 	{
 		"name": "Brazil",
@@ -72,7 +74,8 @@
 		"cities": ["Rio de Janeiro","SÃ£o Paulo","Salvador","BrasÃ­lia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			"BelÃ©m","GoiÃ¢nia","Guarulhos","Campinas","SÃ£o Luis","MaceiÃ³","Duque de Caxias","Natal","Campo Grande","Teresina",
 			"FlorianÃ³polis","Nova IguaÃ§u","Sao Bernardo do Campo","JoÃ£o Pessoa","Osasco","JaboatÃ£o dos Guararapes","SÃ£o JosÃ© dos Campos","Contagem","UberlÃ¢ndia","Aracaju","CuiabÃ¡", 
-			"Feira de Santana","Juiz de Fora","Joinville","MacapÃ¡","JundiaÃ­"]			
+			"Feira de Santana","Juiz de Fora","Joinville","MacapÃ¡","JundiaÃ­"],
+		"spyNames": ["Antônio", "Bartolomeu", "Domingos", "Estêvão", "Fernão", "Francisco", "Pascoal", "Salvador", "Tomé", "Bianca"]
 	},	
 	{
 		"name": "Zulu",
@@ -97,7 +100,8 @@
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","eMangweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hluhluwe","Matubatuba","Mhlahlandlela",
-			"Mthatha","Maseru","Lobamba","Qunu"]
+			"Mthatha","Maseru","Lobamba","Qunu"],
+		"spyNames": ["Gumede", "Jama", "Mageba", "Malanda", "Mnguni", "Ndaba", "Phunga", "Senzangakhona", "Balungile", "Samkelisiwe"]
 	},	
 	{
 		"name": "Portugal",
@@ -122,7 +126,8 @@
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili","Lamego",
-			"Ponta Delgada"]			
+			"Ponta Delgada"],
+		"spyNames": ["Francisco", "Gaspar", "Alvaro", "Bento", "Roberto", "Afonso", "Galeote", "Diogo", "Eliana", "Oriana"]
 	},
 	{
 		"name": "Indonesia",
@@ -148,7 +153,8 @@
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
 			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
 			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
-			"Yogyakarta","Bima","Sorong"]
+			"Yogyakarta","Bima","Sorong"],
+		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Halayudha", "Jayakatwang", "Lingga", "Mahendradatta", "Prapana", "Raden", "Devi"]
 	},
 	{
 		"name": "Morocco",
@@ -173,7 +179,8 @@
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
 			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
-			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"]			
+			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"],
+		"spyNames": ["el-Krim", "ibn-Battuta", "al-Jazzar", "al-Kahina", "Hayyuj", "Kusayla", "al-Idrisi", "Salih", "Tariq", "Dihya"]
 	},
 	{
 		"name": "Venice",
@@ -195,7 +202,8 @@
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
 		"uniques": ["[+100]% [Gold] [in capital]","Free [Merchant of Venice] appears <upon discovering [Optics] technology>","Cannot build [Settler] units", "May not annex cities", "May buy items in puppet cities"],
-		"cities": ["Venice"]
+		"cities": ["Venice"],
+		"spyNames": ["Gasparo", "Giosafat", "Ambrogio", "Niccolo", "Marino", "Cesare", "Francesco", "Giovanni", "Bertolome", "Filomena"]
 	},
 	{
 		"name": "Shoshone",
@@ -218,7 +226,8 @@
 		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
 			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
-			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"]
+			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"],
+		"spyNames": ["Cameahwait", "Ondongarte", "Queenah", "Pugweenee", "Sacajawea", "Sagwitch", "Sanpitch", "Tetoharsky", "Tuziyammo", "Mugwayan"]
 	},
 	{
 		"name": "France",
@@ -243,7 +252,8 @@
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
-			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"]
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
+		"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
 	},
 
 	{
@@ -266,11 +276,13 @@
 		"innerColor": [185,0,0],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
+		"uniques": ["No damage penalty for wounded units","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
-			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"],
+		"spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
+		
 	},
 	// City-States sorted by cityStateType, name
 	{

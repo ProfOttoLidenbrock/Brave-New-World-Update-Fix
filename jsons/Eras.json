@@ -59,6 +59,7 @@
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus","Parthenon"],
         "baseUnitBuyCost": 300,
         "startPercent": 37,
+        "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
         "iconRGB": [104, 58, 183]
     },
     {

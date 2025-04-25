@@ -110,7 +110,7 @@
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
-		"uniques": ["Gain a free [Mosque] [in this city]", "Only available <after adopting [Piety]>", "Hidden when religion is disabled",
+		"uniques": ["Gain a free [Mosque] [in this city]", "Only available <after adopting [Piety]>", "Only available (when religion is enabled)",
 			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion", "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
 		"requiredTech": "Theology",
 		"quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
